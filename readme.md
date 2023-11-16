@@ -25,7 +25,7 @@ Project is created with:
 * nanoid: 3.3.4
 * node-mocks-http: 1.13.0
 * nodemailer: 6.9.6
-* passport": 0.6.0
+* passport: 0.6.0
 * passport-jwt: 4.0.1
 * nodemon: 2.0.15
 
