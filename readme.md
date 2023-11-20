@@ -23,6 +23,7 @@ Project is created with:
 * morgan: 1.10.0
 * multer: 1.4.5-lts.1
 * nanoid: 3.3.4
+* node 18.16.0
 * node-mocks-http: 1.13.0
 * nodemailer: 6.9.6
 * passport: 0.6.0
